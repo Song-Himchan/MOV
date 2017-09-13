@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8b0435811b44ccec7588d2eb20e2227907b39ad">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6d72e175610ddf0c0fb44584324481df9ad074df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\98d09d102027efa072a3884069967172be9cffcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_0495f7368ebd515f25305e0e54b44a4dbbdc37e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2884a227d06a8c536ed7e78f6ad6cf2262241983\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\db43acbf2e99ff34730288978d983f5de405944b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_de8b3c87632cceb0dc27162af731ca1fc8086b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\c0d4b7c56cc99fc12a28e5787822f359f3cb27f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_98f6d302f70b6537e7b2d8062ee3268adc5be1fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\4d6c3661d1847dbeddbc9b52672c1e646de850e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_684c839e0ffcc5d53762ed547f5e1f1b9968fda9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e74f6bbd051a60e466f5c84e2c6a7820a11190b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\e2c3b0ab2af2dafa452a0b60423f1f660f7d95e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_1fe90cc55f25fc0681ac867be8c1d66b45e6f88d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\bd826264db9a30cefc2608179c1b3b91eb9f7c40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_b349374751ab49aaf1ef6e02d969b2ecd6906971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\gson-2.8.1_e075242e4c13c22ea28beb134b8fe8901239d027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\2b346c656e3d4b93ceeec4b926b2dab65f298338\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_05b16f71b9d13ca723f2d54797edac641cc481f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\7a619c8bc37112d3bf546890fc17afe16cfd1a48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_1eb14c3a3110dbbdc54deb118ada489557ba5ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\855ead0f56a658be8e4bb8276dc797f89b45074a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_91784aff9bb75a05c7c41fb3511906e3e44b1798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_33299f7936e5932f89361144164c3c0b1800aad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hotdo\.android\build-cache\e322c9890f58d89a0afa7468fa5bbd2293b6a6b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\hotdo\AndroidStudioProjects\MOV\app\build\intermediates\pre-dexed\debug\classes_93264243dedb17a98338fa0678e58f96502ecedb.jar" />
+    </item>
+
+</items>
